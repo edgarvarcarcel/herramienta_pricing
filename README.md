@@ -27,7 +27,7 @@ El motor está parametrizado 100% desde un archivo Excel maestro (`parametros_ap
 
 ## 🖥️ Vista Previa de la Aplicación
 
-![Vista principal del Simulador APNR, Solvencia y Pricing V2](assets/simulador_apnr_v2.jpg)
+![Vista principal del Simulador APNR, Solvencia y Pricing V2](assets/simulador_apnr_v3.jpg)
 
 ---
 
