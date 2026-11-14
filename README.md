@@ -91,8 +91,8 @@ flowchart TD
 
 1. Clona el repositorio y ubica la terminal en la carpeta del proyecto:
    ```bash
-   git clone https://github.com/edgarvarcarcel/<NOMBRE_DEL_REPO>.git
-   cd <NOMBRE_DEL_REPO>
+   git clone https://github.com/edgarvarcarcel/herramienta_pricing.git
+   cd herramienta_pricing
    ```
 
 2. Asegúrate de contar con un entorno Python / Anaconda con `streamlit`, `pandas`, `numpy`, `openpyxl`, `plotly` y `pytest`.
